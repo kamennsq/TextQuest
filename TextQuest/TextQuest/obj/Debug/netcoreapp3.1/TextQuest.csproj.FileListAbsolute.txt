@@ -1,0 +1,13 @@
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.exe
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.deps.json
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.runtimeconfig.json
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.runtimeconfig.dev.json
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.dll
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\bin\Debug\netcoreapp3.1\TextQuest.pdb
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.csproj.AssemblyReference.cache
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.AssemblyInfoInputs.cache
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.AssemblyInfo.cs
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.csproj.CoreCompileInputs.cache
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.dll
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.pdb
+C:\Users\wolk1\source\repos\TextQuest\TextQuest\obj\Debug\netcoreapp3.1\TextQuest.genruntimeconfig.cache
